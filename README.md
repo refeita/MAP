@@ -12,7 +12,3 @@ laboratórios da disciplina de métodos avançados em programação 2021.2
 O projeto foi desenvolvido utilizando as seguintes tecnologias: <br />
 - Java <br />
 - JUnit 5
-
-#
-- Desenvolvido por: Rafaela Candido, Jefferson Gomes
-
